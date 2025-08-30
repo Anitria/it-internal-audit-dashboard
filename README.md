@@ -3,6 +3,8 @@
 **Workbook:** `Assignment 2 IT Internal Audit IS444 Spring 2025.twbx`  
 *(Open in Tableau Desktop or Tableau Public.)*
 
+![Dashboard Preview](cover.png)
+
 ## What this shows
 - Department analysis with spend category, payment type, and employee views
 - Audit metrics (approved amounts, counts, exceptions)
