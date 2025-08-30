@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Tableau / cache
+*.hyper
+*.tde
+*.tds
+*.tdsx
+*.bak
+*.tmp
+*.log
